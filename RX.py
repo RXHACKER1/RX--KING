@@ -394,9 +394,9 @@ logo = ("""\033[1;32m
         
  
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;33m
-  \033[1;32mAuther  :RX HACKER 
-  \033[1;33mYouTube :RX HACKER 
-  \033[1;32mFecbook :RX HACKER 
+  \033[1;32mAuther   :RX HACKER 
+  \033[1;33mGithub   :RX HACKER 
+  \033[1;32mFecbook  :RX HACKER 
    \033[1;33m Admin. :RX HACKER 
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;32m""")
 
